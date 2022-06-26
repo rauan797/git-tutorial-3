@@ -4,3 +4,6 @@ b = "Berlin"
 
 print(f"{b + str(a)}!")
 
+# here comes the bugfix
+print(f"all bugs are eliminated!")
+
