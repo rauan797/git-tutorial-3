@@ -1,8 +1,8 @@
 # new feature script
 print(f"I'm the new feature")
 
-a = 100
-b = 100
+a = 1
+b = 12
 if a == b:
     print("Yes")
 
