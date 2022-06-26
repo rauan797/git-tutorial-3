@@ -9,4 +9,4 @@ if a == b:
 else:
     print("No")
 
-    
+print("bug is fixed")
